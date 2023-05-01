@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4A6CDCB6-2C8C-477E-ACA4-070E3D352026"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67634D8B-7454-42A4-93DE-9F2EFEEA9CF3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TarotCards/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "67634D8B-7454-42A4-93DE-9F2EFEEA9CF3 - bfc56116f78b391"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TarotCards.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TarotCards.ViewController"
+                  moduleName = "TarotCards"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivanolivas/Desktop/308%20Project/TarotCards/TarotCards/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "395">
+               </Location>
+               <Location
+                  uuid = "67634D8B-7454-42A4-93DE-9F2EFEEA9CF3 - d7ee05c39359e126"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TarotCards.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TarotCards.ViewController&gt;"
+                  moduleName = "TarotCards"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivanolivas/Desktop/308%20Project/TarotCards/TarotCards/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "336">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
